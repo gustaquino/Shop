@@ -15,22 +15,22 @@ const Navbar = () => {
       <h1 className="w-full text-3xl font-bold text-white">Coffee</h1>
       <ul className="hidden md:flex">
         <li className="p-4">
-          <Link to="home" smooth={true} offset={-50} duration={500}>
+          <Link to="home" smooth={true} offset={-50} duration={1500}>
             Home
           </Link>
         </li>
         <li className="p-4">
-          <Link to="product" smooth={true} offset={-50} duration={500}>
+          <Link to="product" smooth={true} offset={-50} duration={1500}>
             Product
           </Link>
         </li>
         <li className="p-4">
-          <Link to="testimonials" smooth={true} offset={-50} duration={500}>
+          <Link to="testimonials" smooth={true} offset={-50} duration={1500}>
             Testimonials
           </Link>
         </li>
         <li className="p-4">
-          <Link to="contact" smooth={true} offset={-50} duration={500}>
+          <Link to="contact" smooth={true} offset={-50} duration={1500}>
             Contact
           </Link>
         </li>

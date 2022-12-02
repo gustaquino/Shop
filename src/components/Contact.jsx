@@ -3,7 +3,7 @@ import contact from "../assets/contact.jpg";
 
 const Contact = () => {
   return (
-    <div className="relative flex flex-col justify-center  bg-black/95   px-4 py-12">
+    <div className="relative flex flex-1 flex-col justify-center  bg-black/95   px-4 py-12">
       <div className="w-full p-6 m-auto bg-transparent rounded-md ring-1 ring-white lg:max-w-xl">
         <h1 className="text-3xl font-semibold text-center text-white  uppercase">
           Contact Form
