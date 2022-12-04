@@ -1,5 +1,4 @@
 import React from "react";
-import contact from "../assets/contact.jpg";
 
 const Contact = () => {
   return (
@@ -56,7 +55,7 @@ const Contact = () => {
           </div>
           <div className="mb-2">
             <label>
-              <span class="text-white">Message</span>
+              <span className="text-white">Message</span>
               <textarea
                 name="message"
                 className="
@@ -76,7 +75,7 @@ const Contact = () => {
             </label>
           </div>
           <div className="py-4"></div>
-          <div class="mb-6">
+          <div className="mb-6">
             <button
               type="submit"
               className="

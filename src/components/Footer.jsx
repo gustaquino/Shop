@@ -7,7 +7,7 @@ const Footer = () => {
       <footer className="flex items-center justify-center p-4 bg-black text-white">
         <div className="items-center flex"></div>
         <div className="flex flex-col   gap-4 justify-center">
-          <a>
+          <div>
             <h1>
               <a
                 href="https://www.linkedin.com/in/gustavo-de-aquino-fioranti-40b098246/"
@@ -16,7 +16,7 @@ const Footer = () => {
                 LINKEDIN
               </a>
             </h1>
-          </a>
+          </div>
           <a href="https://github.com/gustaquino" target="_blank">
             <h1>GITHUB</h1>
           </a>

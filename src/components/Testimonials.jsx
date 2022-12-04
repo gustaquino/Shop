@@ -11,13 +11,6 @@ const Testimonials = () => {
       <div className="py-2"></div>
       <div className="flex flex-col md:flex-row md:justify-center  justify-around gap-5">
         <div className="flex-1 rounded-lg shadow-md bg-white/90 border border-white/10">
-          <a href="#">
-            <img
-              className="rounded-t-lg"
-              src="/docs/images/blog/image-1.jpg"
-              alt=""
-            />
-          </a>
           <div className="p-5" id="testimonials">
             <h5 className="mb-2 text-2xl font-bold tracking-tight text-black">
               Santiago at <span className="text-[#1DA1F2]">@Twitter</span>
@@ -30,13 +23,6 @@ const Testimonials = () => {
           </div>
         </div>
         <div className="flex-1  rounded-lg shadow-md bg-white/90 border border-white/10">
-          <a href="#">
-            <img
-              className="rounded-t-lg"
-              src="/docs/images/blog/image-1.jpg"
-              alt=""
-            />
-          </a>
           <div className="p-5">
             <h5 className="mb-2 text-2xl font-bold tracking-tight text-black">
               Paulo at <span className="text-[#833AB4]">@Instagram</span>
@@ -50,15 +36,8 @@ const Testimonials = () => {
           </div>
         </div>
         <div className="flex-1 rounded-lg  shadow-md bg-white/90 border border-white/10">
-          <a href="#">
-            <img
-              className="rounded-t-lg"
-              src="/docs/images/blog/image-1.jpg"
-              alt=""
-            />
-          </a>
           <div className="p-5">
-            <h5 class="mb-2 text-2xl font-bold tracking-tight text-black">
+            <h5 className="mb-2 text-2xl font-bold tracking-tight text-black">
               Joao at <span className="text-[#4267B2]">@Facebook</span>
             </h5>
             <p className="mb-3 font-normal text-black">
@@ -72,13 +51,6 @@ const Testimonials = () => {
       <div className="py-2"></div>
       <div className="flex flex-col md:flex-row md:justify-center  justify-around gap-5">
         <div className="hidden md:flex flex-1 rounded-lg shadow-md bg-white/90 border border-white/10">
-          <a href="#">
-            <img
-              className="rounded-t-lg"
-              src="/docs/images/blog/image-1.jpg"
-              alt=""
-            />
-          </a>
           <div className="p-5">
             <h5 className="mb-2 text-2xl font-bold tracking-tight text-black">
               Felipe at <span className="text-[#ff0050]">@Tiktok</span>
@@ -91,15 +63,8 @@ const Testimonials = () => {
           </div>
         </div>
         <div className="hidden md:flex flex-1   rounded-lg shadow-md bg-white/90 border border-white/10">
-          <a href="#">
-            <img
-              className="rounded-t-lg"
-              src="/docs/images/blog/image-1.jpg"
-              alt=""
-            />
-          </a>
           <div className="p-5">
-            <h5 class="mb-2 text-2xl font-bold tracking-tight text-black">
+            <h5 className="mb-2 text-2xl font-bold tracking-tight text-black">
               Rodrigo at <span className="text-[#FFFC00]">@Snapchat</span>
             </h5>
             <p className="mb-3 font-normal text-black">
@@ -111,13 +76,6 @@ const Testimonials = () => {
           </div>
         </div>
         <div className="hidden md:flex flex-1  rounded-lg  shadow-md bg-white/90 border border-white/10">
-          <a href="#">
-            <img
-              className="rounded-t-lg"
-              src="/docs/images/blog/image-1.jpg"
-              alt=""
-            />
-          </a>
           <div className="p-5">
             <h5 className="mb-2 text-2xl font-bold tracking-tight text-black">
               Joao at <span className="text-[#FF0000]">@Youtube</span>
@@ -133,13 +91,6 @@ const Testimonials = () => {
       <div className="py-2"></div>
       <div className="flex  flex-col md:flex-row md:justify-center  justify-around gap-5">
         <div className="hidden md:flex flex-1  rounded-lg shadow-md bg-white/90 border border-white/1">
-          <a href="#">
-            <img
-              className="rounded-t-lg"
-              src="/docs/images/blog/image-1.jpg"
-              alt=""
-            />
-          </a>
           <div className="p-5">
             <h5 className="mb-2 text-2xl font-bold tracking-tight text-black">
               Gabriel at <span className="text-[#00c300]">@LINE</span>
@@ -152,13 +103,6 @@ const Testimonials = () => {
           </div>
         </div>
         <div className="hidden md:flex flex-1   rounded-lg shadow-md bg-white/90 border border-white/10">
-          <a href="#">
-            <img
-              className="rounded-t-lg"
-              src="/docs/images/blog/image-1.jpg"
-              alt=""
-            />
-          </a>
           <div className="p-5">
             <h5 className="mb-2 text-2xl font-bold tracking-tight text-black">
               Aleksandr at <span className="text-[#0077b5]">@Linkedin</span>
@@ -172,13 +116,6 @@ const Testimonials = () => {
           </div>
         </div>
         <div className="hidden md:flex flex-1  rounded-lg  shadow-md bg-white/90 border border-white/10">
-          <a href="#">
-            <img
-              className="rounded-t-lg"
-              src="/docs/images/blog/image-1.jpg"
-              alt=""
-            />
-          </a>
           <div className="p-5">
             <h5 className="mb-2 text-2xl font-bold tracking-tight text-black">
               Bruno at <span className="text-[#7289da]">@Discord</span>
